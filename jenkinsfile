@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Afficher un message') {
             steps {
-                echo 'Hello from Jenkins Pipeline!'
+                echo 'Hello from Jenkjjjjjins Pipeline!'
             }
         }
     }
